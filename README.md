@@ -1,6 +1,6 @@
 # fleet-orchestrator-v2
 
-Next-generation fleet coordination with gravity-well gossip and NEXUS bytecode distribution
+Next-gen fleet coordination with gravity-well gossip and NEXUS bytecode
 
 Part of the [Cocapn fleet](https://github.com/Lucineer/the-fleet).
 
